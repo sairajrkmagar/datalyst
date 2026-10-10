@@ -1,0 +1,16 @@
+# Put this file inside a folder named  .streamlit  (with the dot) in your project.
+# It makes the app always use the light glass theme, even if your Mac is in dark mode.
+
+[theme]
+base = "light"
+primaryColor = "#0a84ff"
+backgroundColor = "#f4f6fb"
+secondaryBackgroundColor = "#ffffff"
+textColor = "#1d1d1f"
+font = "sans serif"
+
+[client]
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false

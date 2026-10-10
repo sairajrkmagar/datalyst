@@ -1,0 +1,13 @@
+.git
+__pycache__/
+*.pyc
+old_files/
+test_logs/
+test_report.txt
+bank_results_*.csv
+catalog_results.csv
+docs/
+
+# what people typed and rated: private, stays on this computer
+feedback_log.jsonl
+feedback_problems.csv

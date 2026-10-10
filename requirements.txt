@@ -1,0 +1,16 @@
+# Datalyst: Python packages (Python 3.11 to 3.13)
+#
+# The upper limits are on purpose, they are the versions it was tested with:
+#   Streamlit 1.45 and 1.65 (the design is checked on both)
+#   pandas 2.2 and 2.3 (pandas 3 changed how data is shared in memory: not supported yet)
+streamlit>=1.45,<1.70
+pandas>=2.2,<3
+numpy>=1.26,<3
+altair>=5.4,<7
+requests>=2.31,<3
+openpyxl>=3.1,<4
+# report export (PDF, Word, Excel, web page)
+vl-convert-python>=1.7,<2
+python-docx>=1.1,<2
+reportlab>=4.2,<6
+Pillow>=10.0,<13

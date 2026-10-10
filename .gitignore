@@ -1,0 +1,35 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+venv/
+.idea/
+.vscode/
+# test output
+test_logs/
+test_report.txt
+bank_results_*.csv
+catalog_results.csv
+fuzz_*.csv
+# files you moved aside
+old_files/
+# never publish secrets
+.streamlit/secrets.toml
+
+# what people typed and rated: private, stays on this computer
+feedback_log.jsonl
+feedback_problems.csv
+# Private files: my own notes, drafts, slides
+*.pdf
+Datalyst_Intro_Slides.pptx
+docs/VIDEO_*.md
+docs/DEMO_SCRIPT.md
+
+# My test results (made on my machine)
+decline_audit*.csv
+decline_audit_report.txt
+
+# Third-party datasets (not mine to share). Bring your own CSVs.
+amazon.csv
+Cleaned_HR_Data_Analysis.csv
+ecommerce_sales_34500.csv
