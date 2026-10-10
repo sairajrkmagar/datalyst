@@ -1,5 +1,7 @@
 # Datalyst: an AI data analyst you can trust
 
+▶ **[Watch the 3-minute demo on LinkedIn](https://lnkd.in/p/ddHKfuxA)**
+
 Upload a spreadsheet, ask questions in plain English, and get **exact answers**.
 The AI only *reads the question*. **Every number is calculated by code** and
 checked against your real data. When the app is not sure, it says so instead of guessing.
